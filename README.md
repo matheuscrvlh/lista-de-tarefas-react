@@ -3,7 +3,7 @@
 Projeto de **lista de tarefas** desenvolvido com **React** e **Tailwind CSS**, com foco em prática de estado, Context API e componentização.
 
 ## 🔗 Demo
-Abra o arquivo `index.html` diretamente no navegador.
+https://matheuscrvlh.github.io/lista-de-tarefas-react/
 
 ## 📸 Screenshots
 
